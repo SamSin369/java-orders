@@ -53,7 +53,6 @@ public class Customer {
         this.paymentamt = paymentamt;
         this.outstandingamt = outstandingamt;
         this.phone = phone;
-
         this.agent = agent;
     }
 
